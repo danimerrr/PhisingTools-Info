@@ -11,6 +11,7 @@
 
 ## Phishing tools
 - **[Gophish](https://getgophish.com/)** - Open-Source Phishing Framework
+- **[kevthehermit](https://github.com/kevthehermit/SpearPhisher)** - A Web Application to Send and Track Spear Phishing Campaigns.
 - **[King Phisher](https://github.com/CrimsonForge-io/king-phisher)** - Phishing campaign toolkit used for creating and managing multiple simultaneous phishing attacks with custom email and server content.
 - **[PhishingFrenzy](https://github.com/pentestgeek/phishing-frenzy)** - Phishing Frenzy is an Open Source Ruby on Rails application that is leveraged by penetration testers to manage email phishing campaigns.
 - **[wifiphisher](https://github.com/wifiphisher/wifiphisher)** - Automated phishing attacks against Wi-Fi networks
