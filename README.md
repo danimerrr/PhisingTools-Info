@@ -17,6 +17,7 @@
 - **[wifiphisher](https://github.com/wifiphisher/wifiphisher)** - Automated phishing attacks against Wi-Fi networks
 - **[Lucy Phishing Server](https://lucysecurity.com/)** - (commercial) tool to perform security awareness trainings for employees. Includes many useful attack templates as well as training materials.
 - **[Evilginx2](https://github.com/kgretzky/evilginx2)** - MITM attack framework used for phishing credentials and session cookies from any Web service
+- **[Gophish](https://www.phishtool.com/)** - helps analysts investigate reported emails
 
 ## Miscellaneous
 ### Videos
